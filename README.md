@@ -27,3 +27,10 @@ The project uses different functions to draw each part of the picture:
 Random positions for the stars make each one different creating a more natural effect. The screenshot of the drawing is below:
 
 <img width="1606" height="1266" alt="night_sky_ _mountains" src="https://github.com/user-attachments/assets/d3c345ce-ca21-4b4b-8aa2-93bf8bf0a293" />
+
+## How to Run the Program
+
+1. Make sure Python is installed on your computer.
+2. Open the `night_sky_and_mountains.py` file in VS Code or another Python IDE.
+3. Run the program.
+4. A Turtle graphics window will open and display the night sky and mountain landscape.
