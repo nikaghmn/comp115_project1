@@ -1,1 +1,25 @@
-# comp115_project1
+# Night Sky and Mountains 
+
+## Description
+
+This project uses Python Turtle to create a drawing of a nighttime mountain landscape. The picture includes a dark blue sky, a crescent moon, randomly placed stars, clouds, snowy mountains, green trees, and grass.
+The program uses basic Python skills to draw different shapes and create a complete picture.
+
+The project demonstrates:
+
+- Drawing shapes such as circles, triangles, and stars.
+- Using functions to organize the code.
+- Using loops to repeat shapes without writing the same code multiple times.
+- Using random numbers to place stars in different positions.
+- Using coordinates to control where objects are drawn.
+
+Code Overview
+The project uses different functions to draw each part of the picture:
+
+- draw_moon() – Draws a yellow crescent moon using two circles.
+- draw_stars() – Draws 20 five-pointed stars in different positions and sizes.
+- draw_cloud(x, y) – Draws clouds using overlapping circles.
+- draw_mountain(x, y, color) – Draws mountains in different shades of blue.
+- draw_snow(x, y) – Draws white snow on top of the mountains.
+- draw_tree(x, y) – Draws green trees with brown trunks.
+- draw_ground() – Draws the green ground at the bottom of the picture.
