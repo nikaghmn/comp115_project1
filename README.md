@@ -2,7 +2,7 @@
 
 ## Description
 
-This project uses Python Turtle to create a drawing of a nighttime mountain landscape. The picture includes a dark blue sky, a crescent moon, randomly placed stars, clouds, snowy mountains, green trees, and grass.
+This project uses Python Turtle to create a drawing of a night time mountain landscape. The picture includes a dark blue sky, a moon, stars, clouds, snowy mountains, and green trees.
 The program uses basic Python skills to draw different shapes and create a complete picture.
 
 The project demonstrates:
