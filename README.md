@@ -24,4 +24,6 @@ The project uses different functions to draw each part of the picture:
 - draw_tree(x, y) – Draws green trees with brown trunks.
 - draw_ground() – Draws the green ground at the bottom of the picture.
 
+Random positions for the stars make each one different creating a more natural effect. The screenshot of the drawing is below:
+
 <img width="1606" height="1266" alt="night_sky_ _mountains" src="https://github.com/user-attachments/assets/d3c345ce-ca21-4b4b-8aa2-93bf8bf0a293" />
